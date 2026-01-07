@@ -1,0 +1,17 @@
+name: flood_quake_frontend
+description: Flutter frontend-only mock app for Flood & Earthquake Alert System
+version: 0.0.1
+publish_to: none # not published
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+  assets: []
